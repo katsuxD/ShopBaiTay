@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "A"
+  },
+  {
+    "Id": 2,
+    "Name": "S"
+  },
+  {
+    "Id": 3,
+    "Name": "Random"
+  },
+  {
+    "Id": 4,
+    "Name": "VIP"
+  },
+  {
+    "Id": 5,
+    "Name": "Boards"
+  },
+  {
+    "Id": 6,
+    "Name": "Hats"
+  },
+  {
+    "Id": 7,
+    "Name": "Boots"
+  },
+  {
+    "Id": 8,
+    "Name": "Gloves"
+  }
+]
